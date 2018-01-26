@@ -7,3 +7,4 @@ Indice a "GitHub pages" de alumnos
 * [Lucía Blanco Salgado](https://lucia-blanco.github.io/)
 * [Raúl Moreno Montiel](https://raaulmm.github.io/)
 * [Ángeles Bueno Aguilar](https://angelesbueno.github.io/)
+* [Beatriz Parejo Ramos](https://beatrizpr.github.io/)
