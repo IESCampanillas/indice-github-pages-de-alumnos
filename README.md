@@ -9,3 +9,4 @@ Indice a "GitHub pages" de alumnos
 * [Raúl Moreno Montiel](https://raaulmm.github.io/)
 * [Beatriz Parejo Ramos](https://beatrizpr.github.io/)
 * [Alejandro Puche Velasco](https://alejandropuche.github.io./)
+* [Alejandro Ruiz López](https://alerui.github.io/)
