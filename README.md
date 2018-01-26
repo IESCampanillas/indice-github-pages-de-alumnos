@@ -6,3 +6,4 @@ Indice a "GitHub pages" de alumnos
 * [Alejandro Puche Velasco](https://alejandropuche.github.io./)
 * [Lucía Blanco Salgado](https://lucia-blanco.github.io/)
 * [Raúl Moreno Montiel](https://raaulmm.github.io/)
+* [Ángeles Bueno Aguilar](https://angelesbueno.github.io/)
